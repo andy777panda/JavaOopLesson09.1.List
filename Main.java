@@ -15,7 +15,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		// створення списку
-		ArrayList<Integer> arr = new ArrayList<Integer>();
+		List<Integer> arr = new ArrayList<Integer>();
 		
 		// наповнення списку елементами
 		for (int i = 0; i < 10; i++) {
